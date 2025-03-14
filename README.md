@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @Amit Kumar
-- 👀 I’m interested in Building myself.
-- 🌱 I’m currently trying to grasp everything.
-- 💞️ I’m looking to create a webapp or saas which can be useful to others.
-- 📫 reach me at `manage.pc4u@gmail.com`
+- 👀 I’m interested in everything.
