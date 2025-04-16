@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Amit Kumar
-- 👀 I’m interested in everything.
+
